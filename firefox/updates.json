@@ -1,14 +1,10 @@
 {
   "addons": {
-    "<拡張機能のUUID>": {
+    "1a2d08ed-1908-4a83-ada2-b381aa92116b": {
       "updates": [
         {
-          "version": "1.0.0.0",
-          "update_link": "https://server.com/myextension.xpi"
-        },
-        {
-          "version": "1.0.1.0",
-          "update_link": "https://server.com/myextension.xpi"
+          "version": "1.0.0",
+          "update_link": "https://raw.githubusercontent.com/yufuin/mezapa_mizu_pre_open/main/firefox/mezapa-mizu_pre.xpi"
         }
       ]
     }
